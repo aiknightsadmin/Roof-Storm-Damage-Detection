@@ -1,13 +1,21 @@
 See more details in Set up  Mark_RCNN project.dox
+
 SET UP THE MARK_RCNN PROJECT
+
 1.	STEP ONE
 Download the original project from the github: https://github.com/aiknightsadmin/Roof-Storm-Damage-Detection
 INSTALLATION
+
 --1.	Clone this repository：https://github.com/aiknightsadmin/Roof-Storm-Damage-Detection 
+
 --2.	Install dependencies
+
 pip3 install -r requirements.txt
+
 --3.	Run setup from the repository root directory
+
 python3 setup.py install
+
 2.	CREATE .JSON FILE
 Use this website to create .json file: http://www.robots.ox.ac.uk/~vgg/software/via/via.html
 3.	SET UP YOUR OWN DATASETS
