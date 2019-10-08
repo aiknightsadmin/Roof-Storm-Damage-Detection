@@ -1,4 +1,4 @@
-
+See more details in Set up  Mark_RCNN project.dox
 SET UP THE MARK_RCNN PROJECT
 1.	STEP ONE
 Download the original project from the github: https://github.com/aiknightsadmin/Roof-Storm-Damage-Detection
