@@ -63,3 +63,5 @@ Batch detection
 python HailV3.py detect --dataset=dataset --weights=mask_rcnn_hail_0124.h5 --subset=dataset/train
 
 
+Finally, HailV3.py is the main page.
+
